@@ -1,0 +1,15 @@
+html{
+    background-color: black;;
+}
+
+body{
+    margin:auto;
+    padding:0;
+    justify-content: center;
+    text-align: center;
+    display:block;
+    background-color: black;
+    height:100vh;
+    list-style-type:none;
+
+}
